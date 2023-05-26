@@ -1,2 +1,1 @@
-# zombieland
-Videojuego de zombies
+# Zombie-Land
